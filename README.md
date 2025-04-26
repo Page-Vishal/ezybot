@@ -1,6 +1,6 @@
-# EzyBot 
+# EzyBot [![Made with Prisma](http://made-with.prisma.io/indigo.svg)](https://prisma.io)
 
-[![Made with Prisma](http://made-with.prisma.io/indigo.svg)](https://prisma.io)
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
